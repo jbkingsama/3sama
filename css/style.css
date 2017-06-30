@@ -19,7 +19,7 @@ video{width: auto;height: auto;}
 .nav li{ margin-top: 0.5rem; float: left; }
 .nav span{ width: 1rem; line-height: 1rem; border-radius: 50%; background-color: #FFBB05; color: #000; font-size: 0.6rem;}
 .nav a{ color: #fff; font-size: 0.35rem; }
-.nav p{ font-size: 0.16rem; margin-top: 0.1rem;}
+.nav p{ font-size: 0.16rem; margin-top: 0.1rem; color: #fff;}
 .yincang{ display: none; }
 .active{ display: block; }
 
@@ -33,7 +33,6 @@ video{width: auto;height: auto;}
 
 .content{ 
 	width: 100%; 
-	height: 300px; 
 	background-color: #fff; 
 	border-top: 0.15rem solid #FFBB05; 
 	margin-bottom: 1rem;
@@ -46,5 +45,6 @@ video{width: auto;height: auto;}
 .content{ margin-top: -100px; }
 
 
-.footer{ width: 100%; background-color: #FFBB05; line-height: 0.8rem;}
+.footer{ width: 100%; background-color: #FFBB05; line-height: 0.8rem; }
 .footer p{ font-size: 20px; color: #fff; }
+
